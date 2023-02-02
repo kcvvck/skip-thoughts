@@ -22,11 +22,6 @@ import time
 profile = False
 
 #-----------------------------------------------------------------------------#
-# Specify model and table locations here
-#-----------------------------------------------------------------------------#
-# path_to_models = 'misc/skipthoughts/models/'
-# path_to_tables = 'misc/skipthoughts/models/'
-#-----------------------------------------------------------------------------#
 
 def load_model(path_to_models:str, path_to_tables:str):
     """
